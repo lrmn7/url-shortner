@@ -1,9 +1,4 @@
 ## ✨ Url Shortnert
- Screenshot
-<p align="center">
-<img src="https://storage.googleapis.com/replit/images/1680494110993_0e4834bed7d088f7d241d6b0158bbb58.png" width="60%" />
-</p>
-
 1. **Open with Liver Server**
 
     Your site is now running!
