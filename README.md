@@ -9,6 +9,16 @@
 
 If you have any idea to make it more interesting, feel free to send a PR, or create an issue for a feature request.
 
+## Support me
+
+- 👉 🇮🇩 [Trakteer](https://trakteer.id/lrmn) free access
+- 👉 🌍 [BuyMeACoffe](https://www.buymeacoffee.com/lrmn)
+- 👉 🌍 [Ko-Fi](https://ko-fi.com/lrmn7)
+
+---
+
+Copyright © 2020 by [L RMN](https://is-a.fun/)
+
 # 🤝 License
 
 ### [MIT](LICENSE)
